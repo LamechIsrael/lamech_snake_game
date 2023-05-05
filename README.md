@@ -1,4 +1,4 @@
-# lamech_snake_game
+# Lamech's Snake Game
 
 A snake game I made by completing Angela Yu's '100 Days of Python.'
 Days 20 and 21.
